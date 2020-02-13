@@ -1,0 +1,315 @@
+/* .ball{
+	animation: 2s move infinite ease-in-out;
+}
+@keyframes move{
+	0%{
+		left: 5%;
+
+	}
+	50%{
+		left: 85%;
+	}
+	100%{
+		left: 5%;
+	}
+}
+
+.ball{
+	width: 10%;
+	padding-bottom: 10%;
+	border-radius: : 50%;
+	background: #2098d1;
+	box-shadow: -3px 5px 0px rgba(0, 0, 0, 0.2);
+	position: absolute;
+	top: 100px;
+	left: 5%;
+} */
+	
+#duacolom{
+	background: ;
+}
+
+
+
+.muka{
+	/* margin-top: 10px; */
+	background-image: url("img/newlatar.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+}
+
+
+
+
+.navbar{
+	height: 60px;
+	background: linear-gradient(rgb(#888888,#111111));
+}
+
+
+
+
+.i{
+	width: 100%;
+	height: 50%;
+	background-size: cover;
+	margin-top: -5px;
+}
+
+
+
+.coro{
+	color: black;
+}
+.container{
+	width: 800px;
+}
+.border{
+	border: 5px solid white;
+	object-position: center;
+	border-radius: 100%;
+	width: 200px;
+	height:200px;
+	margin-top: 4px;
+	background-size: cover;
+}
+.border:hover{
+	transform: scale(2);
+	transition: 0.2s;
+}
+
+
+
+.fas{
+	margin-right:10px ;
+}
+#atas{
+	/* background: linear-gradient(lightskyblue,lightseagreen);
+	margin-right: -5px; */
+
+}
+.btn{
+	background: linear-gradient(blue,lightskyblue);
+
+}
+.carousel {
+	margin-top: -5px;
+}
+.con{
+	width: 800px;
+	margin-top: -5px;
+	/* height: 100%; */
+}
+.kk{
+	background-color: lightskyblue;
+	height: 200px;
+	width: 100%;
+}
+
+
+
+
+#satu{
+	padding: 10px;
+	margin-top: 15px;
+	border: 5px solid white;
+	color: white;
+}
+#satu:hover{
+	transform: scale(2);
+	transition: 0.2s;
+}
+#iii{
+	width: 600px;
+	height: 600px;
+}
+
+
+
+
+#end{
+	background:linear-gradient(white) ;
+	margin-bottom: -4px;
+}
+#imga{
+	padding: 10px;
+	margin-top: -5px;
+	color :black ;
+	width: 400px;
+	height: 400px;
+
+
+}
+#personalbtn{
+	margin: auto;
+}
+#img{
+box-shadow: 4px 4px 2px black;
+}
+
+#warna{
+	color: black;
+
+	font-weight: bold;
+}
+#t{
+
+	margin: auto;
+	padding-left: 30px;
+}
+.t:hover{
+	transform: scale(2);
+	transition: 0.2s;
+}
+.content2{
+	background-color: white;
+	width: 400px;
+	height: 100px;
+}
+
+
+#containerportofolio{
+	width: 100%;
+	margin: auto;
+
+}
+#col1{
+	background: linear-gradient(white,lightskyblue);
+}
+#col2{
+	background: linear-gradient(lightskyblue,white);
+}
+.mark{
+	width: 1000px;
+}
+
+.container{
+	padding:20px;
+}
+#sri{
+	width: 400px;
+}
+#warung{
+	width: 400px;
+}
+#buku{
+	width: 800px;
+}
+
+
+.btnhoby{
+	width: 100%;
+	margin: auto;
+	background-color: #b3ffff;
+	/* margin-left:200px ; */
+	border: 2px solid;
+}
+.gamepad{
+	width: 40px;
+	height:60px ;
+}
+.negara{
+	background: linear-gradient(red,white);
+	height: 20px;
+	width: 20px;
+}
+
+#akhir{
+	background-color: black;
+
+
+}
+.footer{
+
+	width: 100%;
+	height: 200px;
+	background-color:black ;
+	color: gold;
+}
+
+.peta{
+	margin-top: 10px;
+}
+.buku{
+	
+}
+#portofolio{
+	
+	margin: auto;
+	margin-top: -2px;
+	margin-left: 5px;
+	background: white;
+	font-family: verdana;
+	box-shadow: 10px 10px 40px lightskyblue;
+}
+#row{
+	margin-left: 3px;
+	margin-top: -10px;
+}
+
+
+#gambarskil{
+	
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	box-shadow: 3px 2px 2px black;
+}
+#a{
+	margin-left: 10px;
+	width: auto;
+	background: white;
+	box-shadow: 2px 2px 2px black;
+	
+}
+
+
+#b{
+	background: white;
+	box-shadow: 2px 2px 2px black;
+}
+#c{
+	background: white;
+	box-shadow: 2px 2px 2px black;
+}
+#copy{
+
+}
+#aa{
+	margin-right: 10px;
+	margin-top: 5px;
+	width: auto;
+	background: white;
+	box-shadow: 4px 4px 3px black;
+	
+}
+
+
+#bb{
+	margin-right: 10px;
+	margin-top: 5px;
+	background: white;
+	box-shadow: 4px 4px 3px black;
+}
+#cc{
+	margin-right: 10px;
+	margin-top: 5px;
+	background: white;
+	box-shadow: 4px 4px 3px black;
+}
+#dd{
+	margin-right: 10px;
+	margin-top: 5px;
+	background: white;
+	box-shadow: 4px 4px 3px black;
+}
+
+#html{
+	margin-right: 10px;
+	margin-top: 5px;
+	width: auto;
+	background: transparent;
+	box-shadow: 0px 0px 0px black;
+}
+

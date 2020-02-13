@@ -1,0 +1,120 @@
+body{
+	/* background-image: url("img/body.jpg");
+	background-size:  cover; */
+	background:linear-gradient( lightskyblue,white);
+	/* background-size: 100px; */
+
+}
+.i{
+	width: 100%;
+	height: 50%;
+	background-size: cover;
+	margin-top: -5px;
+
+
+}
+/* .jumbotron{
+	margin-top: -15px;
+
+.coro{
+	
+}
+} */
+.coro{
+	color: black;
+}
+.container{
+	width: 800px;
+}
+.border{
+	border: 5px solid white;
+	object-position: center;
+	border-radius: 100%;
+	width: 200px;
+	height:200px;
+	margin-top: 4px;
+	background-size: cover;
+
+
+
+}
+.muka{
+	/* margin-top: 10px; */
+	background-image: url("img/border.jpg");
+	background-size: cover;
+	width: 100%;
+	height: 500px;
+
+
+}
+.muka,h3{
+	
+}
+.fas{
+	margin-right:10px ;
+}
+#atas{
+	/* background: linear-gradient(lightskyblue,lightseagreen);
+	margin-right: -5px; */
+
+}
+.btn{
+	background: linear-gradient(blue,lightskyblue);
+
+}
+.carousel {
+	margin-top: -5px;
+}
+.con{
+	width: 800px;
+	margin-top: -5px;
+	/* height: 100%; */
+}
+.kk{
+	background-color: lightskyblue;
+	height: 200px;
+	width: 100%;
+}
+
+
+
+
+#satu{
+	padding: 10px;
+	margin-top: -5px;
+	border: 5px solid white;
+	color: white;
+}
+#end{
+	background:linear-gradient(white) ;
+	margin-bottom: -4px;
+}
+#imga{
+	padding: 10px;
+	margin-top: -5px;
+	color :black ;
+	width: 400px;
+	height: 400px;
+
+
+}
+#personalbtn{
+	margin: auto;
+}
+#img{
+width: 450px;
+height: 400px;
+color: black;
+}
+#iii{
+	width: 600px;
+	height: 600px;
+}
+#warna{
+	color: black;
+	font-weight: bold;
+}
+#t{
+	height: 40px;
+	padding-left: 20px;
+}
