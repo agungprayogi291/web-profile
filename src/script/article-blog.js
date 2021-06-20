@@ -18,11 +18,10 @@ class ArticleBlog extends HTMLElement{
                 color:black;
                 box-shadow:1px 1px 8px rgba(0,0,0,0.5), -1px -1px 8px rgba(0,0,0,0.5);
                 margin:20px auto;
-                background-color:orange;
+                border-color:#a3b9a3;
+                background-color:white;
                 padding:50px;
                 font-family:sans-serif;
-                
-                
             }
             img{
                 max-width:300px;
