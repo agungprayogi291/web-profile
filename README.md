@@ -4,4 +4,4 @@
 -build a profile website with javascrpt that implements web component
 
 
-run aplication https://agungprayogi291.github.io/js-web-profile/
+run aplication https://agungprayogi291.github.io/web-profile/
